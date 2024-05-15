@@ -28,6 +28,7 @@
 - Update Store with Trailer video data
 - Embed the youtube video make it autoplay and mute
 - Use Tailwind CSS make background Trailer video  
+- Build Secondary Component
 
 
 # Features
