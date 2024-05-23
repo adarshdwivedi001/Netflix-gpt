@@ -34,6 +34,9 @@
 - Build Movie Card
 - Optimize Tailwind CSS in Browse page
 - Made custom hooks of Moive categories
+- GPT Search Page
+- GPT Search Bar
+- Multi-Language feature
 
 # Features
 
